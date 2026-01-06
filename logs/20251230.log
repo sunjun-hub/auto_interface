@@ -1,0 +1,14 @@
+2025-12-30 14:22:27,700 - INFO - log_util - 56 - 接口自动化测试开始
+2025-12-30 14:22:27,701 - INFO - log_util - 58 - 接口自动化测试结束
+2025-12-30 14:48:19,445 - INFO - test_login - 20 - 开始执行用例：全部参数正确
+2025-12-30 14:48:19,521 - INFO - test_login - 20 - 开始执行用例：username为空
+2025-12-30 14:48:19,582 - INFO - test_login - 20 - 开始执行用例：password为空
+2025-12-30 14:48:19,652 - INFO - test_login - 20 - 开始执行用例：username，password错误
+2025-12-30 14:48:19,714 - INFO - test_login - 20 - 开始执行用例：username少参
+2025-12-30 14:48:19,772 - INFO - test_login - 20 - 开始执行用例：username参数错误
+2025-12-30 15:01:02,030 - INFO - test_login - 20 - 开始执行用例：全部参数正确
+2025-12-30 15:01:02,124 - INFO - test_login - 20 - 开始执行用例：username为空
+2025-12-30 15:01:02,191 - INFO - test_login - 20 - 开始执行用例：password为空
+2025-12-30 15:01:02,270 - INFO - test_login - 20 - 开始执行用例：username，password错误
+2025-12-30 15:01:02,368 - INFO - test_login - 20 - 开始执行用例：username少参
+2025-12-30 15:01:02,437 - INFO - test_login - 20 - 开始执行用例：username参数错误
